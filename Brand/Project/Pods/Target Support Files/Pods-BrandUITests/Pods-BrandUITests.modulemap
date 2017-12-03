@@ -1,0 +1,6 @@
+framework module Pods_BrandUITests {
+  umbrella header "Pods-BrandUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
